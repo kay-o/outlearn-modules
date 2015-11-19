@@ -5,10 +5,10 @@
     {
       "name" : "my-outlearn-path",
       "title" : "Develop for Drupal 8; basic devops on cloud & desktop",
-      "description" : "Drupal 8 has very different best practices around developing locally and deploying to the server. This learning path covers the new devops concepts, skills and tools that every Drupal developer needs.",
+      "description" : "Drupal 8 changes the game for developers. This learning path covers the new devops concepts, skills and tools that every Drupal developer needs. Check out best practices for developing locally and deploying to the server.",
       "privacy" : "public",
       "pages" : [
-        {"page" : "./pages/best-practices.md"},
+        {"page" : "./pages/d8-best-practices.md"},
         {"module" : "my-outlearn-module"},
         {"page" : "./pages/closing.md"}
       ]
