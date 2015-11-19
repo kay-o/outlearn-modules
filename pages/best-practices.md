@@ -1,5 +1,13 @@
 # Best practices
-Every serious web development team now uses [Git|http://git-scm.com] to manage code [versions|http://en.wikipedia.org/wiki/Version_control] and deployment.
+Drupal 8 has specific workflow requirements. Fulfilling them with the right action at the right time will take new habits, skills and tools. Even if you already know Drupal 7 and/or Git, take a trip down this learning path to grab new information.
+
+* Identify essential git commands & concepts
+* Confirm the hows and whys of each server instance
+* Code
+* Configuration
+
+h2. Why Git? Seems like an unnecessary hurdle to learn.
+Make no mistake. This boat is the one you want to be on. Every serious web development team now uses [Git](http://git-scm.com) to manage code [versions](http://en.wikipedia.org/wiki/Version_control) and deployment, and for all the right reasons.
 
 Next, it's important to highlight what learners should get out of your course.  For example, pretty soon you will be able to:
 

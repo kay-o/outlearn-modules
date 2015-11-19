@@ -4,8 +4,8 @@
   "paths" : [
     {
       "name" : "my-outlearn-path",
-      "title" : "Develop for Drupal 8; leverage cloud & desktop",
-      "description" : "Learn best practices for developing Drupal sites: develop locally and run on a Drupal-optimized server. This learning path covers key concepts, skills and tools.",
+      "title" : "Develop for Drupal 8; basic devops on cloud & desktop",
+      "description" : "Drupal 8 has very different best practices around developing locally and deploying to the server. This learning path covers the new devops concepts, skills and tools that every Drupal developer needs.",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/best-practices.md"},
