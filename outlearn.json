@@ -4,8 +4,8 @@
   "paths" : [
     {
       "name" : "my-outlearn-path",
-      "title" : "My First Outlearn Path",
-      "description" : "Fastest Way to Publish a Path",
+      "title" : "Develop for Drupal 8; leverage cloud & desktop",
+      "description" : "Learn best practices for developing Drupal sites: develop locally and run on a Drupal-optimized server. This learning path covers key concepts, skills and tools.",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
