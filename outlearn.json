@@ -8,7 +8,7 @@
       "description" : "Learn best practices for developing Drupal sites: develop locally and run on a Drupal-optimized server. This learning path covers key concepts, skills and tools.",
       "privacy" : "public",
       "pages" : [
-        {"page" : "./pages/welcome.md"},
+        {"page" : "./pages/best-practices.md"},
         {"module" : "my-outlearn-module"},
         {"page" : "./pages/closing.md"}
       ]

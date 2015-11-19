@@ -1,0 +1,1 @@
+The 'why' of a process will always elude noobs (which **you** may or may not be wrt this topic). Trust the process blindly for now. Follow it closely despite your doubts--just for the sake of sanity. (And where you discover a better way by the end, submit a pull request! That way I (and everyone else) benefit(s) from your insights!)
