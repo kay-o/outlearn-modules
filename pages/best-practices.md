@@ -1,8 +1,5 @@
-# Welcome
-
-This is where it all starts, your first path page. This page is your chance to make a great first impression. So let your personality come through and make sure to get your learners excited about embarking on your path.
-
-The best way to keep your learners' attention is with a crisp description of what your path is all about. For this sample path, the goal is get you started with creating your own Outlearn content as fast as possible. The target audience is **you**, and anyone else wanting to share amazing learning resources with other devs on a platform specifically built to let your content shine.
+# Best practices
+Every serious web development team now uses [Git|http://git-scm.com] to manage code [versions|http://en.wikipedia.org/wiki/Version_control] and deployment.
 
 Next, it's important to highlight what learners should get out of your course.  For example, pretty soon you will be able to:
 
